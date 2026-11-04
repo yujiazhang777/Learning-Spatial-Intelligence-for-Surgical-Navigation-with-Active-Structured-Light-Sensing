@@ -15,6 +15,9 @@ The BibTeX entry below is a provisional template. The author list, publication y
 ```bibtex
 @misc{spatial_intelligence_surgical_navigation,
   title = {Learning Spatial Intelligence for Surgical Navigation with Active Structured Light Sensing}
+  author={Zhang, Yujia and Huai, Jianzhu and Yang, Yuan and An, Xiangdong and Meng, Xiaolin},
+  journal={},
+  year={}
 }
 ```
 
